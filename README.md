@@ -5,7 +5,7 @@ Hi there 👋 I'm Alvis Pastars
 
 📫 You can reach me on: 
 
-*Skills:
+Skills:
  Git
  C++
  C#
