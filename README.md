@@ -5,15 +5,15 @@ Hi there 👋 I'm Alvis Pastars
 
 📫 You can reach me on: 
 
-Skills:
-Git
-C++
-C#
-.NET
-Relational Databases & SQL
-HTTP & Web API Basics
-Unit Testing
-Test Driven Development
-Clean Code, SOLID
-Design Patterns
-HTML & CSS, VueJS, TypeScript & NodeJS basics
+*Skills:
+ Git
+ C++
+ C#
+ .NET
+ Relational Databases & SQL
+ HTTP & Web API Basics
+ Unit Testing
+ Test Driven Development
+ Clean Code, SOLID
+ Design Patterns
+ HTML & CSS, VueJS, TypeScript & NodeJS basics
