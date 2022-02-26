@@ -24,3 +24,5 @@ Hi there 👋 I'm Alvis Pastars
  - Design Patterns
  - HTML & CSS, VueJS, TypeScript & NodeJS basics
 ---
+Projects:
+[Geometry_Clone](https://github.com/Alvis257/Geometry_Clone), [Flight_Planer](https://github.com/Alvis257/Flight_Planer)
