@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alvis</h1>
-<h3 align="center">A passionate Software Engenere</h3>
+<h3 align="center">A passionate Software Engineer</h3>
 
 - 🔭 I’m currently working on [Web-api](https://github.com/Alvis257/Flight_Planer)
 
