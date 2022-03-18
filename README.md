@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Web-api](https://github.com/Alvis257/Flight_Planer)
 
-- 🌱 I’m currently learning **.Net and MsSql**
+- 🌱 I’m currently learning **.Net and C#**
 
 - 🤝 My Projects: [Geometry_Clone](https://github.com/Alvis257/Geometry_Clone), [Flight_Planer](https://github.com/Alvis257/Flight_Planer), [Scooter_Rent](https://github.com/Alvis257/Scooter_Rental_Home)
 
